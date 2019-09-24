@@ -73,7 +73,7 @@
    </properties>
    
   <build>
-    <finalName>ILP_Bookstore</finalName> 
+    <finalName>BS_webapp</finalName> 
     <pluginManagement>
       <plugins>
         <plugin>
